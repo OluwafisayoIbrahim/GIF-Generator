@@ -2,6 +2,9 @@
 
 GIF Generator is a user-friendly web application that allows you to search for GIFs and easily copy their direct links to your clipboard. With a sleek interface and seamless integration with the Tenor GIF API, GIF Generator makes finding and sharing your favorite GIFs a breeze.
 
+![image](https://github.com/OluwafisayoIbrahim/GIF-Generator/assets/78263397/2dcf6d3d-22f7-4a5c-a56e-17d128ddc00b)
+
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
